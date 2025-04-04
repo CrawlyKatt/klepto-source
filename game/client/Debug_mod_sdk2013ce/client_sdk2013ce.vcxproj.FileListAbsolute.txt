@@ -1,0 +1,2 @@
+E:\SteamLibrary\Steam\steamapps\sourcemods\klepto\src\sp\src\game\client\Debug_mod_sdk2013ce\client.dll
+E:\XBLAH\content\Mapbase\klepto\src\game\client\Debug_mod_sdk2013ce\client.dll
